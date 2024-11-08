@@ -1,0 +1,16 @@
+.banner {
+    text-align: center;
+    padding: 80px 0;
+    background-image: url('C:\Users\강다연\OneDrive\문서\GitHub\lib\public\images\banner.jpg');
+    background-size: cover;
+    color: #fff;
+  }
+  
+  .banner h2 {
+    font-size: 48px;
+  }
+  
+  .banner p {
+    font-size: 24px;
+  }
+  
